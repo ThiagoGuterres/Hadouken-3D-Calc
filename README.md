@@ -19,7 +19,7 @@ Calculadora gratuita de precificação para impressão 3D. Roda direto no navega
 2. Envie os 3 arquivos: `index.html`, `style.css` e `script.js` (mais este README, se quiser).
 3. No repositório, abra **Settings > Pages**.
 4. Em **Build and deployment**, escolha **Deploy from a branch**, branch `main` e pasta `/ (root)`. Salve.
-5. Em 1 a 2 minutos o site fica em `https://SEU-USUARIO.github.io/hadouken-3d-calc/`.
+5. Em 1 a 2 minutos o site fica em `https://thiagoguterres.github.io/Hadouken-3D-Calc/`.
 
 ## Licença
 
